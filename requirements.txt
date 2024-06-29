@@ -23,5 +23,9 @@ spotipy
 tgcrypto
 unidecode
 yt-dlp
+pornhub-api==0.3.0
 youtube-search
 youtube-search-python
+git+https://github.com/yt-dlp/yt-dlp
+
+                                                       ### ❖ ➥ 𝗕𝐖𝗙 𝗠𝗨𝗦𝗜𝗖™🇮🇳
