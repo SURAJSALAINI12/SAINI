@@ -10,8 +10,8 @@ from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
 
-from VenomX.utils.formatters import time_to_seconds
-from VenomX.utils.database import is_on_off
+from asuixxxx.utils.formatters import time_to_seconds
+from asuixxxx.utils.database import is_on_off
 
 
 def cookies():
