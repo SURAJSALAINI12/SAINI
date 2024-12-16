@@ -83,7 +83,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("VBWF_MUSIC1")
+                await self.two.join_chat("BWF_MUSIC1")
                 await self.two.join_chat("MUSICBOT_OWNER")
             except:
                 pass
