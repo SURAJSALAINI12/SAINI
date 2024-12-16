@@ -10,8 +10,8 @@ from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
 
-from asuixxxx8978.utils.formatters import time_to_seconds
-from asuixxxx8978.database import is_on_off
+from AshishX.utils.formatters import time_to_seconds
+from AshishX.database import is_on_off
 
 
 def cookies():
